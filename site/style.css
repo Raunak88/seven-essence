@@ -9,21 +9,30 @@ h6{
     color: #c2b698;
     }
 
+.container{
+  margin-bottom: 2em;
+}
+
+.btn{
+  background-color: #bcdf00;
+  border-color: #bcdf00;
+  color:black;
+}
 .hero {
   background: white;
 }
 
 .card-img-top{
-	height:230px;
+  height:230px;
 }
 
-.card 
+.first_section .card 
 {
-	position: relative;
+  position: relative;
   
 }
 
-.card .card-body
+.first_section .card .card-body
 {
 
   position: absolute;
@@ -33,4 +42,25 @@ h6{
   left: 11%;
   height: 80%;
   width:80%;
+}
+
+.third_section .card {
+  padding: 1em;
+  background-color: #efeeed;
+}
+
+.third_section .card img{
+  border-radius: 50%;
+  width: 85%;
+  height: 80%;
+  margin:1em;
+
+}
+
+.footer_section{
+   background-color: #c2b698;
+}
+
+.footer_section .jumbotron{
+  background-color: #c2b698;
 }
