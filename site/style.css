@@ -69,6 +69,6 @@ h6{
    background-color: #c2b698;
 }
 
-.footer_section .jumbotron{
+.footer_section .jumbotron.jumbotron-fluid {
   background-color: #c2b698;
 }
