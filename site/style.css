@@ -16,6 +16,15 @@ h6{
     padding-left: 0.5em;  
 
 }
+.about{
+  color:white;
+}
+
+.story-image{
+  background: url("images/about-us-2.jpg");
+  background-size: cover;
+  min-height: webkit-fill-available;
+}
 
 .breadcrumb, .story {
   background:#c2b698;
